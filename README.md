@@ -2,6 +2,7 @@
 
 ## Halaman Splash Screen
 <img src="https://github.com/Daviddjunanda28/Responsi_2024/blob/main/splash_screen.jpg?raw=true" alt="Splash Screen" width="250"/>
+
 ## Halaman Login
 <img src="https://github.com/Daviddjunanda28/Responsi_2024/blob/main/login.jpg?raw=true" alt="Halaman Login" width="250"/>
 ## Halaman Daftar
@@ -15,5 +16,4 @@
 ## Halaman Logout
 <img src="https://github.com/Daviddjunanda28/Responsi_2024/blob/main/logout.jpg?raw=true" alt="Halaman Logout" width="250"/>
 
-
-Projek Aplikasi 2024
+===========================================
