@@ -1,3 +1,6 @@
+![alt text](https://github.com/Daviddjunanda28/Responsi_2024/blob/main/splash_screen.jpg?raw=true)
+
+
 # responsi_2024
 
 A new Flutter project.
