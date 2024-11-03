@@ -1,4 +1,5 @@
-![alt text](https://github.com/Daviddjunanda28/Responsi_2024/blob/main/splash_screen.jpg?raw=true)
+## Gambar Splash Screen
+<img src="https://github.com/Daviddjunanda28/Responsi_2024/blob/main/splash_screen.jpg?raw=true" alt="Splash Screen" width="400"/>
 
 
 # responsi_2024
